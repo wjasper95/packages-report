@@ -1,3 +1,7 @@
+#' ---
+#' output: github_document
+#' ---
+
 here::here()
 
 test <- function(x) {
